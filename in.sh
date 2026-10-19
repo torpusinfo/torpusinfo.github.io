@@ -5,11 +5,11 @@ generate_blog() {
 
     srcdir="."
     dstdir="$srcdir"
-    blogdir="$srcdir/blogs"
+    blogdir="$srcdir/blog"
 
     cat << EOF > "$dstdir/index.xml"
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Torpus' Blogs</title>
+	<title>Torpus' Blog</title>
 	<id>https://torpus.info/</id>
 	<link rel="self" href="https://torpus.info/index.xml"></link>
 	<author>
