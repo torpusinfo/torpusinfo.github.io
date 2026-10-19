@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: white;
+}
+
+.directory-listing {
+    margin: 20px;
+}
+
+.monoe {
+    position:fixed;
+    right:0;
+    bottom:0;
+    margin:0;
+    width:auto;
+    height:auto;
+    background:url("monoe.png") no-repeat bottom right;
+}

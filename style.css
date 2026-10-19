@@ -1,0 +1,51 @@
+body {
+    color: white;
+    background: black url("bg.png") repeat center center scroll;
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+a, a:visited {
+  color: white;
+}
+
+.blog-container {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.blog-container p {
+    text-align: left;
+    margin: 10px 0;
+}
+
+
+.blog-container li {
+    text-align: left;
+    margin: 10px 0;
+}
+
+.blog-home a {
+    display: block;
+    color: #fff;
+    text-decoration: underline;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.spoiler, .spoiler a{ 
+  color: black; 
+  background-color: black;
+}
+
+.spoiler:hover, .spoiler:hover a {
+  color: white;
+  background-color: transparent;
+}

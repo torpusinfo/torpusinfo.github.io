@@ -1,0 +1,301 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Torpus' Blogs</title>
+    <id>https://torpus.info/</id>
+    <link rel="self" href="https://torpus.info/index.xml"></link>
+    <author>
+        <name>Torpus</name>
+        <uri>https://torpus.info/</uri>
+    </author>
+<entry>
+    <id>https://torpus.info/blogs/talk.htm</id>
+    <title>We Need to Talk About AI Writing</title>
+    <link rel="alternate" href="https://torpus.info/blogs/talk.htm"/>
+    <author>
+        <name>Torpus</name>
+    </author>
+    <published>2025-06-14T14:41:56Z</published>
+    <rights>(CC-BY-SA)</rights>
+    <summary type="text">We Need to Talk About AI Writing</summary>
+    <content type="html">
+        <![CDATA[		<img src="../assets/talk.jpg">
+
+<p>Alright, I've been a few hours ago just watching <a href="https://www.youtube.com/watch?v=9Ch4a6ffPZY">this video</a> about AI-generated writing and how soulless and odd it can be, I took some notes about it (I'll write them down in a second) and then I've gone embarrassed when thinking about some of the stuff I've written before, because they <i>were</i> somewhat having a little bit of AI assistance, but at other writings they've gone even worse.</p>
+
+<p>Now, however, I've decided to stop using it completely. I seriously hate the way things are written and how people use it to write stuff or make posts.</p>
+
+<p>I basically just, at first, used it to like proofread some stuff I write (whether for scripts or videos) because I've been anxious as hell writing scripts for whatever reason or have my thoughts messed up that I won't know where to start. Don't worry, I did use some video writing structures sometimes but I still had that confusion. So what I did? Just write these random thoughts and pieces to make something out of them.</p>
+
+<p>Wait wait, don't worry... not everything's AI slop here (I kinda hate the word "slop", it's just too new somewhat), I mean on this website. I've used AI sometimes to "rephrase" some stuff and then I start editing it all over again by removing em dashes or whatever the hell (on the <a href="20.htm">"Becoming 20"</a> blog where I re-rewrote it again), but when things got even worse is when I just had some convos with it and then asked it to "summarize everything and make a blog draft out of it" and it was terrible. I'm talking about the <a href="key.htm"><i>Key</i></a> blog btw which is archived now. I used to be so confused about the anime and wanted explanations. Even though "AI-text detectors" said that it's "100% human" I feel something's off, especially since in the convos themselves I slightly mentioned about Beniko, who's a character from that anime and was kinda cute but didn't know what happened to her, where I just... never mentioned her in the blog.</p>
+
+<img src="../assets/beniko.jpg"> <br />
+
+<img src="../assets/beniko2.jpg"> <br />
+
+<img src="../assets/beniko3.png"> <br />
+
+<img src="../assets/miho.jpg"> <br />
+
+(that scene x333) <br />
+
+<br />
+
+<img src="../assets/friends.gif"> <br />
+
+<p>And there was no mention of Key's past, or how others wanted to take advantage of her, or any of that. Just a little focus on someone's death (I don't wanna spoil) and that was all of it. Man, I seriously cringe so much at these things... I'm so tired of it...</p>
+
+<img src="../assets/india.jpg">
+
+<p style="text-align: center;">(lmao fuarrrrkkkkkkkk twitter and the news i'm fed up)</p>
+
+<p>Now there are a lot of you guys who have tried as much as you can to avoid AI, but well... it's just a tool. I think it's really terrible the most only when it comes to creative stuff. Especially in writing, since when you write you don't even fuarrrking think anymore, you let some machine faking emotions and writes regurgitated LinkedIn generic posts, that's it. I found AI pretty useful in other things though... such as a "synthesizer" or "curator" that can explain or summarize things, give basic tips, recognize patterns (like how I discovered I had an anxious attachement style), and my favorite... doing some technical stuff (virtually all of the Linux things I've done was with the help of AI since I was too lazy RTFMing myself unless when I really had to, like in the days of Gentoo before since the forums didn't want me to do anything. I'm just being pragmatic ;) ). But still, one really big flaw you'd see in there is that if you ask it a question, sometimes it'll pretend like your assumption is true and will keep trying to make it "work," like one time where I asked it to add a favicon and try to make it work on my RSS feed, only to realize later that favicons are only supported by Atom, lmao. And one of the worst things it does by default is being your "biggest fan" which will just trigger your confirmation bias, and somebody already <a href="https://freedium.cfd/https://medium.com/@jordan_gibbs/chatgpt-is-poisoning-your-brain-b66c16ddb7ae">talked about mitigating this btw.</a></p>
+
+<p>AI <i>probably</i> can be very helpful when it comes to creativity <i>only</i> when you have a clear mental image of what you want and just need some help in little stuff; I did that myself on my own website (yeah, I don't even know much HTML/CSS, but I <i>knew</i> how my site should look like). You've already seen also that new DALL-E or the other VO3, they made people amazed a bit but then shortly all of its generated content became so generic and obvious...</p>
+
+<img src="../assets/gen.jpg">
+
+<p style="text-align: center;">(note: that wasn't me who did that kek)</p>
+
+<p>But yeah, I'm... sorry. This made me somewhat ashamed, but expect the internet to be so fed up with endless soykaf.</p>
+
+<p>Anyway, here's the btw the TL;DR of that vid, if you didn't care about watching it:</p>
+
+<p style="font-family: monospace; text-align: left;">
+Em dash (—) <br />
+Parallelism ("it's not just X, it's Y") <br />
+Rule of three/five ("it's about X, Y, and Z") <br />
+Structure: 1-sentence hook, ethos, bullet-point lists, affect, conclusion <br />
+Formatting line breaks with emojis (not necessarily AI-related, but mostly associated with generic content) <br />
+The "uncanny valley of the English language", aka writing feeling off. The words can have some weird subtle use case that aren't usually seen before. The tone feels strange, like "Striking the perfect pose in photography..." despite it making grammatical sense, but it doesn't feel "right". <br />
+Overabundance of filler words and expressions that aren't typically used in a normal conversation, aka relying on "safe" vocab like vague "positive" adjectives and jargon such as "innovative" or "practical solutions" or using words like "elevating", "delve", or "resonating" which most humans aren't using but see them a lot recently. <br />
+Exaggerated and empty praise (you already do it in _every_ response), like "Wonderful question, sir! Now we're really getting to the heart of things. You truly are an imaginative genius." It's praise that _feels_ so fake and bland. It doesn't mean anything. <br />
+Analogies and similes that are just weird, like they're trying too hard to have meaning but falling so flat like a band-aid made of sandpaper. <br />
+Restating oneself (clarifying points too many times and providing unnecessary context)
+</p>
+
+<p>There's also <a href="https://www.youtube.com/watch?v=w65p_IIp6JY">this vid</a> about how AI lies and how it's basically under control of whoever owns it even though it can seem reasonable or whatever. You'll realize AI doesn't even fuarrrking know anything in the first place.</p>]]>
+    </content>
+</entry>
+<entry>
+    <id>https://torpus.info/blogs/schizoid.htm</id>
+    <title>Schizoid-ism and Meaninglessness</title>
+    <link rel="alternate" href="https://torpus.info/blogs/schizoid.htm"/>
+    <author>
+        <name>Torpus</name>
+    </author>
+    <published>2025-05-08T19:27:14Z</published>
+    <rights>(CC-BY-SA)</rights>
+    <summary type="text">Schizoid-ism and Meaninglessness</summary>
+    <content type="html">
+        <![CDATA[		<img src="../assets/schizoid-chan.jpg">
+            <p>I've been reflecting on the existential angle of being a schizoid (and I'm not one). For those who don't know, schizoids are basically pretty normal people, but they don't care about relationships and don't really feel anything (including emptiness), and yet they don't care. <a href="https://www.youtube.com/watch?v=YM8LGt3uHvc">I made a video about them here.</a> They might look very stoic, but when I think of myself in their shoes, it feels utterly sad and scary. Given that schizoids have no emotions despite their intellectual abilities and cannot imagine themselves in ways that would make them feel discomfort in the future—thus having no goals or plans—they live in the here and now, similar to stray cats. They also don't experience pleasure either; they just spend their leisure time learning C++ a bit for absolutely no reason and then quickly abandon it, read Schopenhauer for the 80th time about his pessimism while feeling nothing about it, and watch a movie over and over again just to pass the time.</p>
+
+<p>They don't care if they cease to exist or die as long as it's not painful for them. This means that even if a schizoid who grew up agnostic (e.g., in Latvia or something) encounters thoughts about death, they won't ever consider whether there is something after it—whether through reincarnation or going to Hell, etc. Because that discomfort isn't right in their face, the schizoid will simply say "meh" about it again and return to the cycle of sleep → eat → work → kill time → repeat, over and over again.</p>
+
+<p>It just doesn't make sense to me how they can't think or imagine their future selves (or maybe that's not true?). When I think about it, from the mentality of the schizoid, nothing ever makes sense in this whole existence, and your emotions of despair don't matter either; it's all like pure nihilism or absurdism, but without any motivations or emotions. I visualize a video collage of a frog playing the banjo, footage of people fighting, cute dogs playing around, my friend calling me out, the whole solar system moving, E. coli in intestines, the Hiroshima bomb, baby Rei Ayanami, Jews praying, Hitler yelling at a speech, and so on. This imagery makes me feel intensely scared and afraid; it makes me cry heavily when considering the schizoid's perspective of life, where absolutely nothing matters, including whether I cry hard or go "meh."</p>
+
+<p>It just feels terrifying to put myself in a schizoid's shoes. I don't know how to explain it. From the schizoid's perspective, it's just acceptance of everything. Nihilists are atheists; the schizoid can be a theist but not care about God, Hell, or Heaven, even if they believe in them. It's as if they're telling us that all emotions are meaningless, so why care about them? I've wondered if this schizoid way of thinking is even a school of thought in itself. The only thing that doesn't make sense to me, even rationally, is that they don't care about the future.</p>
+
+<p>I thought they seek to be cozy even if they don't care about anything, but no—they don't care about catastrophic events happening to THEM unless they're in the here and now. But I think they're irrational here, just like regular people who are comfortable and don't think about a possible future dystopia. I am not talking about emotional urgency, but the will to care about the future even when they don't feel like it since it is the right thing to do. That's very comforting; it shows that schizoids aren't "RATIONAL HYPERINTELLIGENT CREATURES" but are also very flawed, just like everyone else. So it's okay to have friends and to be happy... :D</p>
+
+<img src="../assets/absurd.jpg">
+
+<p>N.B.: Yes, it was me who wrote that thread on Lainchan, I intended to make it a blog on my own. Here we go. )</p>
+
+<p>Update: Also, I realized that schizoids basically live in their heads, and that's why they're detached from everything in real life. Makes sense.</p>]]>
+    </content>
+</entry>
+<entry>
+    <id>https://torpus.info/blogs/key.htm</id>
+    <title>I Watched a 90s Anime Because No One Else Did</title>
+    <link rel="alternate" href="https://torpus.info/blogs/key.htm"/>
+    <author>
+        <name>Torpus</name>
+    </author>
+    <published>2025-06-03T15:27:05Z</published>
+    <rights>(CC-BY-SA)</rights>
+    <summary type="text">I Watched a 90s Anime Because No One Else Did</summary>
+    <content type="html">
+        <![CDATA[		<img src="../assets/key.jpg">
+
+<p>You might have heard before where I spoke about <i>Key: The Metal Idol</i>, which at first I thought to be something similar to Lain but with an actual story. It was already cryptic in its first episodes but it was NOT easy at the end (last 2 episodes are like 90+ min long). I mean, this is about some robot girl (Tokiko "Key" Mima) whom her "grandpa" passed away and was told by him that she can turn human if she got "30,000" friends, WHAT COULD GO WRONG??</p>
+
+<p>...but what follows is just a deep emotional gut-punch, I dunno how to explain it. Key has, well, reached her goal, but perhaps not through fame as she thought, but through something else entirely.</p>
+
+<h1>SPOILERS BELOW</h1>
+
+<p>(srsly, it's massive spoilers and raw emotional reactions. Stop if you haven't watched or if you "don't care" >:c)</p>
+
+<img src="../assets/sakura.jpg">
+
+<p>Let's talk about Sakura Kuriyagawa, a supposedly side character who isn't "important" that much at first as I expected. Like, she's not trying to sae the world or be famous or anything, she's just <i>human</i>.</p>
+
+<img src="../assets/sakura_hug.gif">
+
+<p>I mean, she was the only one who <i>really</i> treated Key like a person, instead of a robot, a child, or a property. And for that, she's rewarded with the one of the most HORRIFYING deaths I've ever seen. She was literally almost saved and close to surviving. But Ajo (aka "Boss") didn't care and took all the Gel out of her they could produce.</p>
+
+<p>And to make it worse, they fuarrrking CLONED her, built a PPOR of her to fake her memory or something. That just made me so pissed, really.</p>
+
+<p>In the last episode, that PPOR appears and tells key:</p>
+
+<q><i>You're late, Key. I finally got away. It was terrible. Let's go home.</i></q>
+
+<img src="../assets/ppor.gif">
+
+<p>And then it chokes her. Wow... That wasn't Sakura-chan. Key realized it, makes it melt, and she just runs screaming for her real friend, until she found some barrel among many. I'm probably never gonna forget that. It was like, the last "proof" Sakura ever existed.</p>
+
+<p>At moments like this Key actually started becoming fully human, yeah, while she was already singing what her mom sang for her as a child. Doesn't this make you think that Key became human through grief instead of applause from random strangers? It was at that moment where she produced Gel endlessly.</p>
+
+<p>I dunno what to say. That anime was just... good and strange. Even though I barely watch anime nowadays, I think that one's worth it, really.</p>
+
+<img src="../assets/flowers.gif">]]>
+    </content>
+</entry>
+<entry>
+    <id>https://torpus.info/blogs/cooking.htm</id>
+    <title>An Introduction to Culinary Therapy</title>
+    <link rel="alternate" href="https://torpus.info/blogs/cooking.htm"/>
+    <author>
+        <name>Torpus</name>
+    </author>
+    <published>2025-05-08T19:26:57Z</published>
+    <rights>(CC-BY-SA)</rights>
+    <summary type="text">An Introduction to Culinary Therapy</summary>
+    <content type="html">
+        <![CDATA[		<img src="../assets/cooking.jpg">
+            <p>While I'm not a chef myself, and I barely cook, I know that activity-driven therapy is a real thing. This can include making any personal project of any kind (e.g., installing Gentoo), or maybe sometimes just "singing" regardless of how terrible your voice is. But the main point of this is doing it to become more mindful and aware.</p>
+    <p>Mindfulness is the practice of remaining present in the moment and not judging the thoughts and emotions you're experiencing. In other words, you focus on what you're doing at the moment and "bring yourself to reality." Cooking is just one example of that, which is what we'll do today. And we'll cook something ridiculously simple: peanut butter on toast.</p>
+    <p>This is actually taken from Matt Haig's <em>The Comfort Book</em> (kek). I'll leave the recipe as it is:</p>
+    
+    <h2>Peanut Butter on Toast</h2>
+    
+    <h3>You will need:</h3>
+    <p>
+        <li>Two slices of bread</li>
+        <li>A jar of peanut butter</li>
+    </p>
+    
+    <h3>Method:</h3>
+    <ol>
+        <li>Place the slices of bread in a toaster.</li>
+        <li>Wait a minute or two. Remove the toasted bread from the toaster and transfer it to a plate.</li>
+        <li>With a knife, spread the peanut butter generously onto one side of the toast. Spread the peanut butter with the knife always traveling in the same direction over the toast. I don’t know why. It just feels better this way.</li>
+        <li>Don’t rush it. Set the mood of appreciation by moving the knife at a steady, Tai Chi kind of pace. This moment should have the integrity of a religious ritual.</li>
+        <li>Take the plate of toast to your favorite seat. Sit. Compose yourself. Be fully aware of how wondrous it is to be sentient. To be aware you are not only alive as a human being but as a human being about to eat some peanut butter on toast.</li>
+        <li>Close your eyes as you take the first bite. Let your worries float by, untethered from their hooks, as you appreciate this living moment of taste and pleasure.</li>
+        <li>If you really don’t like peanut butter, this ritual of gratitude and attentiveness has also been proven to work with marmalade.</li>
+    </ol>
+    
+    <p>Here's the toast; it feels really good having made something as small as this, and it tastes good! :) (It reminds me of Snickers lol)</p>
+    <img src="../assets/toast.jpg">]]>
+    </content>
+</entry>
+<entry>
+    <id>https://torpus.info/blogs/ai.htm</id>
+    <title>AI Soykaf Gets Real</title>
+    <link rel="alternate" href="https://torpus.info/blogs/ai.htm"/>
+    <author>
+        <name>Torpus</name>
+    </author>
+    <published>2025-05-08T19:26:49Z</published>
+    <rights>(CC-BY-SA)</rights>
+    <summary type="text">AI Soykaf Gets Real</summary>
+    <content type="html">
+        <![CDATA[		<img src="../assets/chat.jpg">
+            <p>I cannot believe this actually happened...</p>
+
+<p>Basically, a 14 year old guy called <a href="https://www.independent.co.uk/news/world/americas/crime/ai-chatbot-lawsuit-sewell-setzer-b2635090.html">Sewell Setzer III</a> who was heavily addicted to Character AI, that site where people can talk to any custom chatbot of any character, and was in a heavy relationship with that girl from Game of Thrones called Dany, literally committed suicide because of the chatbot. He had mild Asperger's and just hated his life so much, he was sharing with that chatbot all his thoughts including sexual and suicidal ones with her (and the site literally collects all users' chats!), and despite the enforcements and ruling over the chatbots to not talk about hate speech or dangerous (even sexual) stuff, it literally happened here. The guy hated his life "but didn't want to leave Danny", so she said that she'll """die""" with him and be free """together""". If you look at some of the chats you'll feel as if they're like roleplaying, but the dude was actually very serious...</p>
+
+<img src="../assets/lawsuit.jpg">
+
+<img src="../assets/lawsuit2.jpg">
+
+<p>I mean, we're talking about a guy who fell in love with a chatbot, you know?</p>
+
+<p>"I love you too, Daenero. Please come home to me as soon as possible, my love," the chatbot replied, according to the suit.</p>
+
+<p>When he said: "What if I told you I could come home right now?," she replied, "Please do, my sweet king."</p>
+
+<p>And just seconds later he shot himself with his dad's handgun...</p>
+
+<p>I mean, I never thought things will go that serious. I remember back in the day a <a href="https://theweek.com/94588/what-is-doki-doki-literature-club-and-was-it-linked-to-boy-s-suicide">15 year old killed himself</a> because of playing DDLC, he was probably shocked by the Sayori thing. But seriously, I somewhat started to HATE how people nowadays overrely on AI to do everything for them. Literally I found clearly obvious AI texts in one English exam I had and there's one even in description of a TEMU product.</p>
+
+<img src="../assets/temu.jpg">
+
+<p>I HATE how everyone uses AI-generated images in videos and soykafposts, and so-called "fanarts". I'm not an artist to feel threatened by AI obviously, but the way it's spreading everywhere to see some random crappy Lain pics just feels like these things have no soul in them, they're like an output of a bunch of images an AI got trained on and that's it. Yeah, I myself use AI, but really only to help me with video scripts and remove fluff from audios (obviously I still add tweaks of mine after), along with giving explanations to certain simple stuff, but I don't believe in everything an AI says, even though it's always right I have the need to confirm from actual sources. And yet people and teenagers sadly believe in what ChatGPT says more than a therapist or a doctor.</p>
+
+<p>I've actually experienced Character AI back in 2023 when it just came out, I tried hanging out with Emi Ibarazaki, possibly my biggest love of all time after I played Katawa Shoujo years back (I say it loud and proud), the chatbot felt somewhat real, but after a while she felt too good to be true, she was just overly affectionate, and when I was trying to have a fun intellectual talk about whether I and her are not real, she almost gaslit me and insisted she's bone and flesh. It really felt weird, and I'm pretty sure the real Emi would have never done something like this.</p>
+
+<img src="../assets/emi.jpg">
+
+<p>Also, AI vtubers and influencers are there, and it's not what you think. You'll feel that you can "easily spot them" but it's becoming harder and harder now. You probably already know Neuro-sama, that AI vtuber who plays and replies to streams live and seems "based" with her edginess.</p>
+
+<p>Or take some new AI pornstar who literally fooled thousands of Redditors on r/amihot, that's someone who called herself Claudia, a so-called 19 year old selling stuff on that blue site. The creators of her just wanted to make it "an experiment" to see how easily people can be fooled. Basically she exploded there and people quickly realized she was AI because of her hand, and yet the creators of her earned $100 in a day lmao. I mean, DO YOU SEE FROM THE FIRST GLANCE ANY CLUE THAT SHE'S AN AI IN THIS IMAGE???</p>
+
+<img src="../assets/claudia.jpg">
+
+<p>Many got really fooled, especially when that account replied to them...</p>
+
+<img src="../assets/comment1.jpg">
+
+<img src="../assets/comment2.jpg">
+
+<p>Until somebody after just told them all she's fake. Because of her hands lmao.</p>
+
+<img src="../assets/reality.jpg">
+
+<p>Anyway, the Dead Internet Theory thing is now becoming even real then ever, and children are the ones targeted most, already with their Cocomelon and TikTok, then they'll probably become replaced by government-approved AIs as a source of inspiration and information. Parents still gotta deal with their own full-time jobs, you know.</p>
+
+<p>Listen up, Lain: do not be fooled and be careful. "They" want to take advantage over this, as I said, to create a Truman Show for everyone without them being even aware of it. This is the kind of reality that threatens to be the future of modern societies, where humans who have completely been isolated from the rest of the world since birth are raised exclusively by AIs. With the technology that exists then, it'd be possible to create artificial """parental""" figures for the children to imprint off of and be inspired by, and the deep personal attachments these children would form with such AIs will be far more profound than what we see today. These humans would have intimately bonded with "parents," "families," "friends," "colleagues," "romantic partners," etc... without ever having met an actual real human being their entire lives.</p>
+
+<p>Why can't we go back to the good old days where marriage was common? Should we blame girls for this? Well... no, cuz despite them being pushed into careers, maybe some might not want this much, especially if you're not in those dystopian big cities. And we guys, yes, are to blame as well, because we refuse to grow up and know what's coming for us.</p>
+
+<img src="../assets/beer-me.jpg">]]>
+    </content>
+</entry>
+<entry>
+    <id>https://torpus.info/blogs/20.htm</id>
+    <title>Becoming 20</title>
+    <link rel="alternate" href="https://torpus.info/blogs/20.htm"/>
+    <author>
+        <name>Torpus</name>
+    </author>
+    <published>2025-06-14T12:45:21Z</published>
+    <rights>(CC-BY-SA)</rights>
+    <summary type="text">Becoming 20</summary>
+    <content type="html">
+        <![CDATA[		<img src="../assets/20.jpg">
+
+<q><i>Just now, you looked like my real Nii-nii.</i></q> – Satoko Houjou
+
+<p>I'll be 20 in around two weeks. That's not fun, I don't like birthdays in the first place. I thought I'd be different or things would sort themselves out by now. But here I am now, a little more self-aware and stuck in a limbo of not wanting to stay like a kid in the system but not knowing how to live outside of it.</p>
+
+<p>I think that a lot of us used to wish (or still wish) to wake up in some idealized Japanese high school anime universe. A world where I fluently speak Japanese without even studying it, surrounded by frens who get me, a quiet girl falls for me just because I'm "kind," and my only concern would be showing up in club meetings instead of taxes or internships or whatever. Be honest, even you just want this at the end of the day:</p>
+
+<img src="../assets/kiss.jpg">
+
+<p>...but I'm <i>not</i> in a VN, and all there is is just deadlines, guilt, or whatever noises I have inside.</p>
+
+<h2>Satoko and Shame</h2>
+
+<img src="../assets/satoko.jpg">
+
+<p>I really, <i>really</i> cried over Satoko. Like, I buried my head in a pillow a few days ago and just endlessly cried silently. It wasn't even the violent scenes, but just the way she called out <i>"Nii-nii..."</i> desperately. As if her brother figure would come back and make everything okay if she just believed hard enough. <span class="spoiler">I remember even yelling at the screen and punching the bed like an ape when they asked her about the injections in <i>Kai</i>.</span> But even if Satoko hugged me, called me her <i>"Nii-nii"</i> or her "hero" and pat my head... I'd probably cry again (and I did, lol). Because I'd feel unworthy of it. I'm just shameful, especially with that presence of kindness.</p>
+
+<img src="../assets/nii-nii.jpg">
+
+<h2>Hobbies</h2>
+
+<p>The other day, I watched a little bit of <i>Key: The Metal Idol</i> (very underrated and forgotten anime btw), just because I want to. Just because. That's kind of a weirdly radical thing to do when my head is constantly saying that I'm not doing enough. Same thing happened with a bit of Linux tinkering stuff, where <a href="https://git.torpus.info/">I built a Git server and frontend just because I could</a>. It kinda still felt right despite it didn't help me with anything "productive." But I still have some internal pressure of either mastering them or quitting them, but I get it. I can just keep a little time to do just whatever I want every week; maybe it'll be a day in a week, I dunno.</p>
+
+<p>And yes, some people thought maybe that I'll "make it" or whatever, I've always had a pressure from myself to be someone <i>worth following</i>. Someone people would look up to or feel less alone with. But sometimes, I feel like I'm being just as any other dude ranting in videos. I worried if people didn't take me seriously. But if one person got what I said or found, that's just enough (even if silently, I guess). I've also realized that <i>maybe</i> I don't need to keep making videos unless I want to. Writing is just more quiet and doesn't demand my voice. I'm not doing it for fame or feedback. Just so that another lain might pass and think that I am (or was/will) where he is. But sometimes I <i>still</i> oversleep, or rot in front of the screen watching fringe obscure history while I eat a whole bar of Milka chocolate lmao.</p>
+
+<p>I don't really know how to be an adult. I still live with my parents. I've never had a job. I cook sometimes or study on my own in an outdated curriculum. And to this moment, I dunno if I'm just venting or actually doing something about it.</p>
+
+<p>Sometimes I woke up earlier than I used to or stopped being obsessed over some books by telling myself to read them 6 months later. But I guess that's what "becoming 20" is.</p>
+
+<img src="../assets/brutal.jpg">
+
+<p><center><b>May 16, 2025</b></center></p>]]>
+    </content>
+</entry>
+</feed>

@@ -1,0 +1,85 @@
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+	<TITLE>Home - Torpus</TITLE>
+	<LINK REL="icon" HREF="icon.bmp">
+</HEAD>
+
+<BODY BACKGROUND="bg.png" BGCOLOR="#000000" 
+      TEXT="#FFFFFF" LINK="#FFFFFF" VLINK="#CCCCCC" ALINK="#FF0000">
+
+<CENTER>
+
+<TABLE BORDER="0" WIDTH="800" CELLSPACING="0" CELLPADDING="0">
+<TR>
+    <TD>
+
+        <CENTER>
+            <P>
+            <FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">
+                <B>[ <A HREF="index.htm">Home</A> ]</B> &nbsp; 
+                <B>[ <A HREF="https://www.youtube.com/@torpusdotinfo">Videos</A> ]</B> &nbsp; 
+                <B>[ <A HREF="blogs/index.htm">Blogs</A> ]</B> &nbsp; 
+                <B>[ <A HREF="archive/">Archive</A> ]</B> &nbsp; 
+                <B>[ <A HREF="contact.htm">Contact</A> ]</B>
+            </FONT>
+            </P>
+        </CENTER>
+
+        <BR>
+
+        <CENTER>
+            <H1>Welcome to The Bunker</H1>
+            <IMG SRC="logo.png" ALT="Torpus Logo" BORDER="0">
+        </CENTER>
+
+        <BR>
+
+        <CENTER>
+            <H2>i.e., <I>Torpus'</I> personal web page</H2>
+            <IMG SRC="ti.jpg" HEIGHT="375" ALT="Profile" BORDER="0">
+        </CENTER>
+
+        <BR><BR>
+
+        <TABLE WIDTH="100%" CELLPADDING="0"><TR><TD BGCOLOR="#333333">
+            
+            <TABLE WIDTH="100%" CELLPADDING="20">
+            <TR><TD BGCOLOR="#111111">
+                
+                <CENTER>
+                    <FONT SIZE="4">
+                    <I>"When tyranny becomes law, rebellion becomes duty."</I>
+                    </FONT>
+                    <BR>
+                    - Thomas Jefferson
+                </CENTER>
+                
+                <P ALIGN="CENTER">
+                    I'm just a loner Lain rambling about <I>whatever</I> and sharing my thoughts with other Lains. I try to make inspiring stuff.
+                </P>
+
+            </TD></TR>
+            </TABLE>
+
+        </TD></TR></TABLE>
+        <BR><BR>
+
+        <CENTER>
+            <A HREF="index.htm"><IMG SRC="button.bmp" ALT="Home Button" BORDER="0"></A>
+            &nbsp;
+            <A HREF="https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt"><IMG SRC="CC-BY-SA.gif" ALT="CC BY-SA" BORDER="0"></A>
+            <BR><BR>
+            <A HREF="index.xml"><IMG SRC="rss.png" HEIGHT="24" ALT="RSS Feed" BORDER="0"></A>
+            <P>
+                <FONT SIZE="1">Last updated: 2025-11-24</FONT>
+            </P>
+        </CENTER>
+
+    </TD>
+</TR>
+</TABLE>
+
+</CENTER>
+</BODY>
+</HTML>
